@@ -1,5 +1,4 @@
 hello git
 second
 third - my branch
-fourth - my branch
-회사 clone 성공
+fourth - my branch회사 계정 clone 성공
